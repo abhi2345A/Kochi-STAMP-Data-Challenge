@@ -10,7 +10,9 @@ The Main Target Audience for this application are Elderly citizens and different
 * Install Python and pip in open windows powershell using python website
 
 * Install Virtualenv by:
- ``` pip install virtualenv
+ ```
+ pip install virtualenv
+ 
  ```
 * open windows powershell and create a virtual environment using virtualenv :
 ```
